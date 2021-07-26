@@ -5,3 +5,4 @@ const Nav = () => {
         <div ClassName='nav'></div>
     )
 }
+export default Nav
